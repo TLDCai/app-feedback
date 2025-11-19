@@ -2,6 +2,21 @@
 
 This repository is a dedicated portal for users of TLDC to submit bug reports, technical issues, and feature requests.
 
+---
+
+## 🐛 Report a Bug or 💡 Request a Feature
+
+<div align="center">
+
+### **[📝 Open a New Issue](../../issues/new/choose)**
+
+*Before opening a new issue, please [check existing issues](../../issues) to avoid duplicates*
+
+</div>
+
+---
+
+
 📋 **Note:** This repository is dedicated to tracking issues and feature requests. The source code for TLDC is private and is not hosted here.
 
 ## How to Submit Feedback
